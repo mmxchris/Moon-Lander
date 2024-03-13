@@ -1,7 +1,8 @@
-Moon Lander
+**Moon Lander**
+
 Moon Lander is a game based on the Atari 1979 game Lunar Lander. The object of the game is to safely navigate a moon lander to land on a platform on the moon. Horizontal thrusters are used to maneuver the ship lift and right and vertical thrusters are used to slow its descent.
 
-Game Play and Rules
+**Game Play and Rules**
 The following describes the rules and gameplay of Moon Lander:
 The dimensions of the screen are: (-200, -200) to (200, 200).
 The lander begins with 500 units of fuel.
@@ -21,5 +22,5 @@ After running out of fuel, the lander should not be able to apply thrusters (but
 Any other contact with the ground or platform results in a crash.
 This game was done as a project for an Object-Oriented Software Development class. Some of the 
 
-What I did
+**What I did**
 I did not work on all the files. The game, point, ground, uiDraw, and uiInteract classes were provided. I implemented the lander and velocity classes.
